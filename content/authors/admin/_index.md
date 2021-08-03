@@ -27,10 +27,10 @@ education:
   courses:
     - course: MS in Computer Engineering
       institution: University of California, San Diego
-      year: 2021
+      year: 2021 - Present
     - course: BaSc in Computer Engineering
       institution: University of Toronto
-      year: 2017
+      year: 2017 - 2021
 email: ipoy@ucsd.edu
 superuser: true
 highlight_name: false
