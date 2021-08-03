@@ -22,7 +22,7 @@ feature:
   name: Python
 - description: 
   icon: C
-  icon_pack: fab
+  icon_pack: devicon
   name: C
 - description: 
   icon: C++
