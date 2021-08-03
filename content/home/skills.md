@@ -22,12 +22,12 @@ feature:
   name: Python
 - description: 
   icon: C
-  icon_pack: devicon
+  icon_pack: custom
   name: C
 - description: 
   icon: C++
-  icon_pack: C++
-  name: fab
+  icon_pack: devicon
+  name: C++
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
