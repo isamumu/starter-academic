@@ -26,7 +26,7 @@ feature:
   name: C
 - description: 
   icon: C++
-  icon_pack: devicon
+  icon_pack: custom
   name: C++
 
 # Uncomment to use emoji icons.
