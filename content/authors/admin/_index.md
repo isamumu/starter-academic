@@ -35,6 +35,6 @@ email: ipoy@ucsd.edu
 superuser: true
 highlight_name: false
 ---
-I am currently pursuing a Master's in Computer Engineering at the University of California, San Diego, to be advised by {< staticref"https://farinaz.eng.ucsd.edu/home" "newtab">}}Prof. Farinaz Koushanfar{{< /staticref >}}.. 
+I am currently pursuing a Master's in Computer Engineering at the University of California, San Diego, to be advised by {< staticref "https://farinaz.eng.ucsd.edu/home" "newtab">}}Prof. Farinaz Koushanfar{{< /staticref >}}.. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
