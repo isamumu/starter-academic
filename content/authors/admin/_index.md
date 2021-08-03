@@ -7,23 +7,20 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Machine Learning
   - Embedded Systems
-  - ""
+  - Hardware
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=VfCbBg8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/isamumu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/isamu510/
 organizations:
   - name: University of California, San Diego
 education:
@@ -31,12 +28,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Computer Engineering
+      institution: University of California, San Diego
+      year: ""
+    - course: BaSc in Computer Engineering
+      institution: University of Toronto
+      year: ""
 email: isamu.poy@mail.utoronto.ca
 superuser: true
 highlight_name: false
