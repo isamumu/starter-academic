@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Robotics Research Intern
+    company: Hong Kong University of Science and Technology
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    company_logo: hkust
+    location: Hong Kong
+    date_start: '2019-06-01'
+    date_end: '2019-08-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
