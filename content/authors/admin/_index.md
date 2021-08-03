@@ -7,7 +7,7 @@ bio: My research interests include distributed robotics, mobile computing and
 interests:
   - Machine Learning
   - Embedded Systems
-  - Hardware
+  - Software
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,16 +25,13 @@ organizations:
   - name: University of California, San Diego
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
     - course: MS in Computer Engineering
       institution: University of California, San Diego
       year: ""
     - course: BaSc in Computer Engineering
       institution: University of Toronto
       year: ""
-email: isamu.poy@mail.utoronto.ca
+email: ipoy@ucsd.edu
 superuser: true
 highlight_name: false
 ---
