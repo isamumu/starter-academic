@@ -1,6 +1,6 @@
 ---
 title: Isamu Arthur Poy
-role: MS Candidate in Computer Engineering
+role: MS Candidate
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
