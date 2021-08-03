@@ -1,5 +1,5 @@
 ---
-title: Isamu Poy
+title: Isamu Arthur Poy
 role: MS Candidate in Computer Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
@@ -35,5 +35,7 @@ email: ipoy@ucsd.edu
 superuser: true
 highlight_name: false
 ---
+
+{{< staticref "https://matthew-zhang.netlify.app/#contact" "newtab" >}}resumé{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
