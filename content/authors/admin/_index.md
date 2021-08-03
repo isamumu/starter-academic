@@ -27,11 +27,12 @@ education:
   courses:
     - course: MS in Computer Engineering
       institution: University of California, San Diego
-      year: 2021 - Present
+      year: 2021
     - course: BaSc in Computer Engineering
       institution: University of Toronto
-      year: 2017 - 2021
+      year: 2017
 email: ipoy@ucsd.edu
 superuser: true
 highlight_name: false
 ---
+I am currently pursuing a Master's in Computer Engineering at the University of California, San Diego, to be advised by {< staticref "https://farinaz.eng.ucsd.edu/home" "newtab">}}Prof. Farinaz Koushanfar{{< /staticref >}}..
