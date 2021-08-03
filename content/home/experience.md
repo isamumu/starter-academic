@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Designing FPGA debugging hardware on AXI-Lite
-        * Publish work at top tier FPGA conference (ISFPGA)
+        * Publish work to top tier FPGA conference (ISFPGA)
         * Deliver technical presentation to over 150 research associates
         
   - title: Robotics Research Intern
