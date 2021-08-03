@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Designing FPGA debugging hardware on AXI-Lite
+        * Publish work at top tier FPGA conference (ISFPGA)
+        * Deliver technical presentation to over 150 research associates
         
   - title: Robotics Research Intern
     company: Hong Kong University of Science and Technology
@@ -43,7 +43,12 @@ experience:
     location: Hong Kong
     date_start: '2019-06-01'
     date_end: '2019-08-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Developing interfaces for eye-gaze controlled robotic wheelchair in Python
+        * Introduce practical application of novel appearance-based eye tracking algorithm
+        * Publish work to international medical conference (EMBC)
 
 design:
   columns: '2'
