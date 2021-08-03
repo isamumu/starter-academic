@@ -1,6 +1,6 @@
 ---
 title: Isamu Poy
-role: MS Student in Computer Engineering
+role: MS Candidate in Computer Engineering
 avatar_filename: isamu.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -25,8 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, San Diego
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -38,7 +37,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: isamu.poy@mail.utoronto.ca
 superuser: true
 highlight_name: false
 ---
