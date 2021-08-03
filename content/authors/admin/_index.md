@@ -36,6 +36,10 @@ superuser: true
 highlight_name: false
 ---
 
-{{< staticref "https://matthew-zhang.netlify.app/#contact" "newtab" >}}resumé{{< /staticref >}}.
+I am currently pursuing a Master's in Computer Engineering at UC San Diego, to be advised by {{< staticref "https://farinaz.eng.ucsd.edu/home" "newtab" >}}Prof. Farinaz Koushanfar{{< /staticref >}}. I will start working with the {{< staticref "https://aceslab.org/" "newtab" >}}ACES Lab{{< /staticref >}} starting Fall 2021.
+
+I am interested in embedded systems and applied machine learning. Particularly, I am interested in working with hardware such as FPGAs which apply to state-of-the-art techniques in fields such as robotics, human computer interaction, and computer systems. I believe that bridging the gap between hardware and software is necessary to improve the accessibility and security of complex systems.
+
+Previously, I was an undergraduate student in {{< staticref "https://www.ece.utoronto.ca/" "newtab" >}}Electrical and Computer Engineering{{< /staticref >}} at the University of Toronto, with minors in Robotics and Artificial Intelligence. I did research at the University of Toronto, advised by {{< staticref "https://www.ece.utoronto.ca/people/chow-p/" "newtab" >}}Prof. Paul Chow{{< /staticref >}}. My final capstone design project was advised by {{< staticref "https://www.control.utoronto.ca/~broucke/" "newtab" >}}Prof. Mireille Broucke{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
