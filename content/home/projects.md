@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Machine Learning
-    tag: Machine Learning
+  - name: Robotics/ML
+    tag: RML
   - name: Hardware
     tag: Hardware
   - name: Software
