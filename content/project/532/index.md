@@ -1,5 +1,5 @@
 ---
-title: Robotic Wheelchair
+title: H.263 Image Compression
 summary: Image compression on FPGAs
 tags:
 - Hardware
