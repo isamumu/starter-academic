@@ -32,7 +32,7 @@ content:
   - name: Hardware
     tag: Hardware
   - name: Software
-  tag: SWE
+    tag: SWE
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
