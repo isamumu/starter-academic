@@ -1,5 +1,6 @@
 ---
-title: "An example conference paper"
+title: "Interactive Debugging at IP Block Interfaces in FPGAs
+Share on"
 authors:
 - Marco Antonio Merlini
 - Isamu Poy
@@ -20,7 +21,7 @@ publication_types: ["1"]
 publication: In *The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays*
 publication_short: In *FPGA '21*
 
-abstract: Recent developments have shown FPGAs to be effective for data centre applications, but debugging support in that environment has not evolved correspondingly. This presents an additional barrier to widespread adoption. This work proposes Debug Governors, a new open-source debugger designed for controllability and interactive debugging that can help to locate issues across multiple FPGAs. <br /> A Debug Governor can pause, log, drop, and/or inject data into any streaming interface. These operations enable single-stepping, unit testing, and interfacing with software. Hundreds of Debug Governors can fit in a single FPGA and, because they are transparent when inactive, can be left "dormant'' in production designs. <br />We show how Debug Governors can be used to resolve functional problems on a real FPGA, and how they can be extended to memory-mapped protocols.
+abstract: Recent developments have shown FPGAs to be effective for data centre applications, but debugging support in that environment has not evolved correspondingly. This presents an additional barrier to widespread adoption. This work proposes Debug Governors, a new open-source debugger designed for controllability and interactive debugging that can help to locate issues across multiple FPGAs. <br /><br />A Debug Governor can pause, log, drop, and/or inject data into any streaming interface. These operations enable single-stepping, unit testing, and interfacing with software. Hundreds of Debug Governors can fit in a single FPGA and, because they are transparent when inactive, can be left "dormant'' in production designs. <br /><br />We show how Debug Governors can be used to resolve functional problems on a real FPGA, and how they can be extended to memory-mapped protocols.
 
 # Summary. An optional shortened abstract.
 # summary: 
