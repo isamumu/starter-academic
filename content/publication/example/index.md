@@ -31,7 +31,7 @@ featured: true
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: paper1.pdf
+url_pdf: publication/example/paper1.pdf
 url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
