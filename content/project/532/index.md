@@ -12,15 +12,15 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-# links:
-# - icon: github
-#   icon_pack: fab
-#   name: Checkout
-#   url: https://github.com/ece496-Telecopter/ece496/tree/main
-# url_code: ""
-# url_pdf: ""
-# url_slides: ""
-# url_video: ""
+links:
+- icon: github
+  icon_pack: fab
+  name: Checkout
+  url: https://github.com/JKHHai/G4_H263_Compression
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
