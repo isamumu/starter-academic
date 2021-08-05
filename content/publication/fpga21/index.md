@@ -1,10 +1,11 @@
 ---
 title: "An example conference paper"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Marco Antonio Merlini
+- Isamu Poy
+- Paul Chow
+date: "2021-02-17"
+doi: "https://dl.acm.org/doi/10.1145/3431920.3439305"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,23 +17,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *The 2021 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays*
+publication_short: In *FPGA '21*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Recent developments have shown FPGAs to be effective for data centre applications, but debugging support in that environment has not evolved correspondingly. This presents an additional barrier to widespread adoption. This work proposes Debug Governors, a new open-source debugger designed for controllability and interactive debugging that can help to locate issues across multiple FPGAs.
+
+A Debug Governor can pause, log, drop, and/or inject data into any streaming interface. These operations enable single-stepping, unit testing, and interfacing with software. Hundreds of Debug Governors can fit in a single FPGA and, because they are transparent when inactive, can be left "dormant'' in production designs.
+
+We show how Debug Governors can be used to resolve functional problems on a real FPGA, and how they can be extended to memory-mapped protocols.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: 
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: publication/example/paper1.pdf
-url_code: '#'
+- url_pdf: publication/example/paper1.pdf
+# url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
