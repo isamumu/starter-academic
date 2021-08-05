@@ -6,7 +6,7 @@ authors:
 - Isamu Poy
 - Paul Chow
 date: "2021-02-17"
-doi: "https://dl.acm.org/doi/10.1145/3431920.3439305"
+doi: "10.1145/3431920.3439305"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
