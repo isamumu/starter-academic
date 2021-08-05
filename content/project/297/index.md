@@ -2,7 +2,7 @@
 title: GIS Google Maps
 summary: Map application developed from scratch with GIS
 tags:
-- Hardware
+- Software
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
