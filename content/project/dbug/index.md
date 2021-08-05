@@ -1,5 +1,5 @@
 ---
-title: dbugs
+title: Debug Governors
 summary: An example of using the in-built project page.
 tags:
 - Hardware
