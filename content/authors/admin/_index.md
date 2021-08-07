@@ -2,8 +2,7 @@
 title: Isamu Arthur Poy
 role: MS Candidate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Embedded Systems and Applied ML.
 interests:
   - Machine Learning
   - Embedded Systems

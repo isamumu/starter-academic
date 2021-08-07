@@ -33,8 +33,8 @@ experience:
         Responsibilities include:
         
         * Designing FPGA debugging hardware on AXI-Lite
-        * Publish work to top tier FPGA conference (ISFPGA)
         * Deliver technical presentation to over 150 research associates
+        * Publish work to top tier FPGA conference (FPGA '21)
         
   - title: Robotics Research Intern
     company: Hong Kong University of Science and Technology
@@ -48,7 +48,7 @@ experience:
         
         * Developing interfaces for eye-gaze controlled robotic wheelchair in Python
         * Introduce practical application of novel appearance-based eye tracking algorithm
-        * Publish work to international medical conference (EMBC)
+        * Publish work to international medical conference (EMBC '21)
 
 design:
   columns: '2'
