@@ -28,7 +28,7 @@ experience:
     company_logo: amzn
     location: United States
     date_start: '2020-06-01'
-    date_end: '2020-9-01'
+    date_end: '2020-09-01'
     description: |2-
         Responsibilities include:
         
@@ -65,5 +65,5 @@ experience:
         * Publish work to international medical conference (EMBC '21)
 
 design:
-  columns: '3'
+  columns: '2'
 ---
