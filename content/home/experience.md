@@ -65,5 +65,5 @@ experience:
         * Publish work to international medical conference (EMBC '21)
 
 design:
-  columns: '2'
+  columns: '3'
 ---
