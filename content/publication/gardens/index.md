@@ -1,6 +1,5 @@
 ---
-title: "A Multimodal Direct Gaze Interface for Wheelchairs and Teleoperated Robots
-Share on"
+title: "Pilot Study on Tree Hazard Risk Assessment with Limited Data"
 authors:
 - Isamu Poy
 - Seiko Goto
