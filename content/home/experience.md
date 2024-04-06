@@ -28,7 +28,6 @@ experience:
     company_logo: amzn
     location: United States
     date_start: '2023-04-01'
-    date_end: 'Present'
     description: |2-
         Responsibilities include:
         
