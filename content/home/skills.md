@@ -34,6 +34,21 @@ feature:
   icon_pack: custom
   name: Rust
 
+- description: 
+  icon: TS
+  icon_pack: custom
+  name: Typscript
+
+  - description: 
+  icon: GO
+  icon_pack: custom
+  name: GO
+
+  - description: 
+  icon: postgres
+  icon_pack: custom
+  name: PostgreSQL
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
