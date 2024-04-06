@@ -25,7 +25,7 @@ experience:
   - title: R&D Software Engineer 
     company: Qualcomm Institute
     company_url: ''
-    company_logo: amzn
+    company_logo: QI
     location: United States
     date_start: '2023-04-01'
     description: |2-
