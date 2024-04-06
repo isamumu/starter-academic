@@ -49,6 +49,12 @@ feature:
   icon_pack: custom
   name: PostgreSQL
 
+  - description: 
+  icon: torch
+  icon_pack: custom
+  name: PyTorch
+
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
