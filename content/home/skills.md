@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Primary Skills
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -28,6 +28,11 @@ feature:
   icon: C++
   icon_pack: custom
   name: C++
+
+- description: 
+  icon: Rust
+  icon_pack: custom
+  name: Rust
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -34,7 +34,7 @@ experience:
         * Deployed Docker containers for CI development via Github actions for testing infrastructure, and managed testing on the cloud.
         * Implemented inter-process communication in Rust using USRP radios for multi-threaded radio scheduling software with TCP.
         * Developed a $6 million data security system for U.S. intelligence (IARPA), for detection of unknown devices.
-        * Designed a Rust classifier which achieved greater than 80% accuracy across 8 different signals over-the-air.
+        * Designed a Rust classifier which achieved greater than 80% accuracy across 8 different signals.
         * Contribution published to MILCOM ’23 for signal detection and localization of wireless activity using software defined radios.
         
   - title: Software Development Engineering Intern
