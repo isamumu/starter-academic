@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: R&D Software Engineer 
+    company: Qualcomm Institute
+    company_url: ''
+    company_logo: amzn
+    location: United States
+    date_start: '2023-04-01'
+    date_end: 'Present'
+    description: |2-
+        Responsibilities include:
+        
+        * Designed back-end infrastructure for BRP’s new service to manage purchase receipts
+        * Implemented design with AWS cloud services such as Lambda, Dynamo DB, EventBridge, SNS, and SQS
+        * Conducted design reviews and held technical discussions with Amazon principal engineers
+
   - title: Software Development Engineering Intern
     company: Amazon
     company_url: ''
