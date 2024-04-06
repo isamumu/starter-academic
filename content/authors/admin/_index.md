@@ -1,12 +1,12 @@
 ---
 title: Isamu Arthur Poy
-role: MS Candidate
+role: Engineer
 avatar_filename: avatar.jpg
 bio: My research interests include Embedded Systems and Applied ML.
 interests:
-  - Machine Learning
-  - Embedded Systems
-  - Software
+  - Software Engineering
+  - Full-Stack Development
+  - Backend Engineering
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/isamu510/
 organizations:
-  - name: University of California, San Diego
+  - name: Qualcomm Institute/JASR
 education:
   courses:
     - course: MS in Computer Engineering
@@ -30,15 +30,15 @@ education:
     - course: BaSc in Computer Engineering
       institution: University of Toronto
       year: 2017 - 2021
-email: ipoy@ucsd.edu
+email: poyisamu@gmail.com
 superuser: true
 highlight_name: false
 ---
 
-I am currently pursuing a Master's Degree in Computer Engineering at the University of California, San Diego. 
+As an R&D Engineer at Qualcomm Institute - UC San Diego Division of Calit2, I develop wireless sensing solutions in software with the Wireless Communications Sensing and Networking group (WCSNG).
 
-I am interested in embedded systems and applied machine learning. Particularly, I am interested in working with hardware such as FPGAs which apply to state-of-the-art techniques in fields such as robotics, human computer interaction, and computer systems. 
+I recently completed my Master of Science in Computer Engineering at UC San Diego. Previously, I graduated from the University of Toronto with a Bachelor of Applied Science in Computer Engineering. During my undergraduate studies, I also completed several research internships at institutions, such as the University of Toronto, the Hong Kong University of Science and Technology, and Nagasaki University, where I worked on various projects related to machine learning, FPGAs, and HCI for robotics.
 
-I recently graduated with my masters degree in Computer Engineering from University of California, San Diego. Previously I was an undergraduate student in {{< staticref "https://www.ece.utoronto.ca/" "newtab" >}}Electrical and Computer Engineering{{< /staticref >}} at the University of Toronto, with minors in Robotics and Artificial Intelligence. I performed research at the University of Toronto, advised by {{< staticref "https://www.ece.utoronto.ca/people/chow-p/" "newtab" >}}Prof. Paul Chow{{< /staticref >}}. Additionally, I performed research at the Hong Kong University of Science and Technology, advised by {{< staticref "https://seng.ust.hk/about/people/faculty/bertram-emil-shi" "newtab" >}}Prof. Bertram E. Shi{{< /staticref >}}. My final capstone design project was advised by {{< staticref "https://www.control.utoronto.ca/~broucke/" "newtab" >}}Prof. Mireille E. Broucke{{< /staticref >}}.
+I am looking for new opportunities in 2024 developer roles that will allow me to apply my passion and experience in software development to create impactful and cutting-edge solutions for real-world challenges. I am eager to learn and connect from and collaborate with diverse and talented teams!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
