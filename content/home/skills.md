@@ -69,6 +69,11 @@ feature:
   icon_pack: custom
   name: AWS
 
+- description: 
+  icon: docker
+  icon_pack: custom
+  name: Docker
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
