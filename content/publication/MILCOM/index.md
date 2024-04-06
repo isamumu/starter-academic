@@ -1,12 +1,12 @@
 ---
 title: "Searchlight: An accurate, sensitive, and fast radio frequency energy detection system"
 authors:
-- R. Bell
-- K. Watson
-- T. Hu 
-- I. Poy
-- F. Harris
-- D. Bharadia
+- Richard Bell
+- Kyle Watson
+- Tianyi Hu 
+- Isamu Poy
+- fred Harris
+- Dinesh Bharadia
 date: "2023-10-30"
 doi: "10.1109/MILCOM58377.2023.10356230"
 
