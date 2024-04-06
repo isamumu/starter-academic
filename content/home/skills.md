@@ -30,6 +30,11 @@ feature:
   name: C++
 
 - description: 
+  icon: java
+  icon_pack: custom
+  name: Java
+
+- description: 
   icon: Rust
   icon_pack: custom
   name: Rust
@@ -53,6 +58,16 @@ feature:
   icon: torch
   icon_pack: custom
   name: PyTorch
+
+- description: 
+  icon: react
+  icon_pack: custom
+  name: React
+
+- description: 
+  icon: aws
+  icon_pack: custom
+  name: AWS
 
 
 # Uncomment to use emoji icons.
