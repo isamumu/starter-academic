@@ -1,7 +1,7 @@
 ---
 title: Isamu Arthur Poy
 role: Engineer
-avatar_filename: avatar.jpg
+avatar_filename: isamu.jpg
 bio: My research interests include Embedded Systems and Applied ML.
 interests:
   - Software Engineering
