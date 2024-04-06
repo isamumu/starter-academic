@@ -40,19 +40,19 @@ feature:
   name: Typscript
 
 - description: 
-icon: GO
-icon_pack: custom
-name: GO
+  icon: GO
+  icon_pack: custom
+  name: GO
 
 - description: 
-icon: postgres
-icon_pack: custom
-name: PostgreSQL
+  icon: postgres
+  icon_pack: custom
+  name: PostgreSQL
 
 - description: 
-icon: torch
-icon_pack: custom
-name: PyTorch
+  icon: torch
+  icon_pack: custom
+  name: PyTorch
 
 
 # Uncomment to use emoji icons.
